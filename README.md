@@ -1,10 +1,12 @@
 **Change Log**
 
 v1.1
+
 * Added missing en-US folders & files
 
 v1.0
-*Initial Release
+
+* Initial Release
 
 Instructions:
 
