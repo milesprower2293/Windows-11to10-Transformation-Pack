@@ -24,6 +24,7 @@ I'M NOT RESPONSIBLE IF YOU BREAK YOU INSTALLATION BY DOING THIS!
 
 
 If you followed the steps correctly you will have an usable windows 11 to 10 mod
-This only works on Windows 11 21H2 (22000)
+
+**This only works on Windows 11 21H2 (22000)**
 
 ⁓miles_prower2293 (Tails / ARestrepo228)
