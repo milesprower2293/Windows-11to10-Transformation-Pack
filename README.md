@@ -1,4 +1,7 @@
 **Change Log**
+v1.2
+
+* Added files to restore the Windows 10 User Account Control (UAC)
 
 v1.1
 
