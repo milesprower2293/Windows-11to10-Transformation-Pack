@@ -1,5 +1,9 @@
 **Change Log**
 
+v1.3
+
+* Added "Spanish" & "English" Folders to prevent crash and messed text issues
+
 v1.2
 
 * Added files to restore the Windows 10 User Account Control (UAC)
