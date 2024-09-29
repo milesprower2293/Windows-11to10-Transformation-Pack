@@ -1,4 +1,16 @@
-**Change Log**
+**Changelog**
+
+v2.0
+
+* Vivetool is no longer required to restore the WIndows 10 Action center
+* Spanish language removed (temporality)
+* New "Extras" folder which includes p701's universal watermark remover to get rid of the "Test Mode" watermark on the desktop
+* Fixed messed up text on the Windows 10 oobe
+* The windows 10 oobe is now functional
+* jumplists now have the Windows 10 design
+
+**if you have any issues use the "Issues" Page
+(Remember that this transformation pack only works on WIndows 11 21H2 (22000)**
 
 v1.3
 
